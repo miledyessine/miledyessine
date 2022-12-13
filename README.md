@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/miled_yessine/">
   <img align="left" alt="Yessine's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://https://www.facebook.com/yessine.miled.07">
+<a href="https://www.facebook.com/yessine.miled.07">
   <img align="left" alt="Yessine's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />
 </a>
 <a href="https://www.linkedin.com/in/yessine-miled/">
