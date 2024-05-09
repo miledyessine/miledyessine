@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=b40e1e&size=24&center=true&vCenter=true&width=500&height=32&lines=Full+Stack+Web+Develloper;Self-taught+programmer;Always+learning...;Becoming+the+best+version+of+me+%F0%9F%98%8E">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miledyessine&label=Profile%20views&color=b40e1e&style=flat" alt="miledyessine" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=miledyessine&label=Profile%20views&color=b40e1e&style=flat" alt="miledyessine" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing (AWS)**
 
