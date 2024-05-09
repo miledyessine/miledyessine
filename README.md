@@ -11,7 +11,7 @@
   <img align="left" alt="Yessine's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />
 </a>
 <a href="https://www.linkedin.com/in/yessine-miled/">
-  <img align="left" alt="Yessine's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yessine's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=miledyessine.miledyessine)
