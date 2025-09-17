@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yessine Miled</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=b40e1e&size=24&center=true&vCenter=true&width=500&height=32&lines=Full+Stack+Web+Develloper;Self-taught+programmer;Always+learning...;Becoming+the+best+version+of+me+%F0%9F%98%8E">
+  <img src="https://readme-typing-svg.herokuapp.com?color=b40e1e&size=24&center=true&vCenter=true&width=500&height=32&lines=Full+Stack+Web+Develloper;Always+learning...;Becoming+the+best+version+of+me+%F0%9F%98%8E">
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miledyessine&label=Profile%20views&color=b40e1e&style=flat" alt="miledyessine" /> </p>
