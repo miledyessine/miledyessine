@@ -1,24 +1,15 @@
 <div align="center">
 
-```
-██╗   ██╗███████╗███████╗███████╗██╗███╗   ██╗███████╗    ███╗   ███╗██╗██╗     ███████╗██████╗
-╚██╗ ██╔╝██╔════╝██╔════╝██╔════╝██║████╗  ██║██╔════╝    ████╗ ████║██║██║     ██╔════╝██╔══██╗
- ╚████╔╝ █████╗  ███████╗███████╗██║██╔██╗ ██║█████╗      ██╔████╔██║██║██║     █████╗  ██║  ██║
-  ╚██╔╝  ██╔══╝  ╚════██║╚════██║██║██║╚██╗██║██╔══╝      ██║╚██╔╝██║██║██║     ██╔══╝  ██║  ██║
-   ██║   ███████╗███████║███████║██║██║ ╚████║███████╗    ██║ ╚═╝ ██║██║███████╗███████╗██████╔╝
-   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═════╝
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=B40E1E&center=true&vCenter=true&width=600&height=28&lines=Full+Stack+Web+Developer+%7C+Tunisia;Building+things+that+matter...;Currently+leveling+up+%E2%98%81%EF%B8%8F+AWS+Cloud;Always+shipping%2C+always+learning_" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=miledyessine&color=b40e1e&style=flat-square&label=profile+views)](https://github.com/miledyessine)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yessine--miled-b40e1e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yessine-miled)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-miled__yassine7-b40e1e?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/miled_yassine7)
+[![My Portfolio](https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-b40e1e?style=for-the-badge)](https://yessine-miled.vercel.app)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yessine--miled-b40e1e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yessine-miled)
+[![HackerRank](https://img.shields.io/badge/HackerRank-miled__yassine7-b40e1e?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/miled_yassine7)
+[![Profile Views](https://komarev.com/ghpvc/?username=miledyessine&color=b40e1e&style=flat-square&label=profile+views)](https://github.com/miledyessine)
 </div>
 
 ---
@@ -58,7 +49,7 @@ ask_me:   Anything — seriously, anything 🤓
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud & DevOps ✦**
+**Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -86,10 +77,6 @@ ask_me:   Anything — seriously, anything 🤓
 <br/>
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=miledyessine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b40e1e&fire=b40e1e&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=miledyessine&bg_color=0d1117&color=c9d1d9&line=b40e1e&point=b40e1e&area=true&hide_border=true" />
 
 </div>
 
