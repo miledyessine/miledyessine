@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=B40E1E&center=true&vCenter=true&width=600&height=28&lines=Full+Stack+Web+Developer+%7C+Tunisia;Building+things+that+matter...;Currently+leveling+up+%E2%98%81%EF%B8%8F+AWS+Cloud;Always+shipping%2C+always+learning_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=B40E1E&center=true&vCenter=true&width=600&height=28&lines=Full+Stack+Web+Developer+%7C+Tunisia;Building+things+that+matter...;Currently+leveling+up+%E2%98%81%EF%B8%8F+SaaS;Always+shipping%2C+always+learning_" alt="Typing SVG" />
 
 <br/>
 
