@@ -22,7 +22,6 @@ role:     Full Stack Software Engineer
 location: Tunisia 🇹🇳  ·  Open to remote
 email:    miled.yassine7@gmail.com
 status:   🟢 Open to opportunities
-learning: ☁️  AWS Cloud Computing (Solutions Architect path)
 ask_me:   Anything — seriously, anything 🤓
 ```
 
